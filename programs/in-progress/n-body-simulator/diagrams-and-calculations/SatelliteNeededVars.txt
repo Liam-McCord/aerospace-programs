@@ -1,0 +1,19 @@
+Variables:
+Eccentricity
+Apoapsis
+Periapsis
+Radius of Apoapsis
+Radius of Periapsis
+Distance of centre of elipsis to the peak of the smallest axis of the elipsis (semi-minor axis)
+Distance of centre of elipsis to the peak of the biggest axis of the elipsis (semi-major axis)
+Half of focal distance
+
+
+
+
+
+Only two-body problems, don't want to simulate n-body :(
+
+
+
+
