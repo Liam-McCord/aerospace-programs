@@ -64,7 +64,7 @@ int main() {
     // this sets the length of the simulation before the loop. The step number defines the total seconds before the program loops and appends to the updated CSV file. The frequency defines how many seconds between steps there are, and the step amount is the final resultant run steps.
     float step_num = 1000;
     float step_freq = 1;
-    int amount_of_loops = 100;
+    int amount_of_loops = 10;
     int step_amount = step_num / step_freq;
 
     printf("\n\n\n");
